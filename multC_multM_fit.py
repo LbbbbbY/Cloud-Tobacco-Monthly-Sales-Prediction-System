@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 18 14:15:53 2020
-多地市-xgboost预测值与政策值回归
-@author: jiangzhr
-"""
-
 import numpy as np
 import pandas as pd
 import random

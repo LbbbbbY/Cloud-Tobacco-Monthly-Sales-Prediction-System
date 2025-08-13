@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 18 09:23:48 2020
-多地市多月预测
-@author: jiangzhr
-"""
 import numpy as np
 import pandas as pd
 import xgboost as xgb

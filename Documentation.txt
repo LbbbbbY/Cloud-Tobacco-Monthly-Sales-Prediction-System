@@ -1,0 +1,14 @@
+Monthly Forecast:
+XGBoost model predicts trend values
+multC_multM_pre.py
+Regression combined with policy values
+multC_multM_fit.py
+
+Basic Data
+com_id, month, need_ord_item, qty_ord_item, qty_rsn_item
+City code, month, demand, order quantity, reasonable quantity
+If the demand is greater than 50, the demand is equal to the order quantity; if the reasonable quantity is greater than 50, the reasonable quantity is equal to the order quantity
+
+Code Running Environment:
+Dependent Third-Party Libraries: numpy, pandas, xgboost, time, itertools, matplotlib, random, sklearn
+Custom Library: dataDeal
